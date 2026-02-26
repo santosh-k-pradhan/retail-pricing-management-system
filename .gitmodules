@@ -2,3 +2,6 @@
 	path = ui
 	url = https://github.com/santosh-k-pradhan/rpms-app-frontend.git
 	branch = master
+[submodule "backend"]
+	path = backend
+	url = https://github.com/santosh-k-pradhan/rpms-app-backend.git
