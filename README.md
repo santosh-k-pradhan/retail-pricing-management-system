@@ -7,3 +7,17 @@ Project documentation and screenshots is available in the `/docs` folder:
 - Design Decisions
 - Non-Functional Requirements
 - UI screenshots
+
+# UI Codebase
+
+UI codebase available in below git path:
+```bash
+https://github.com/santosh-k-pradhan/rpms-app-backend/tree/3fd8606ce1a8241c0311061c0bcd4f9d35122685
+```
+
+# Backend Codebase
+
+backend codebase available in below git path:
+```bash
+https://github.com/santosh-k-pradhan/rpms-app-frontend/tree/9a587d912045be8f31897b8488de4e161be9f57a
+```
