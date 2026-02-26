@@ -1,12 +1,19 @@
 # Documentation
 
 Project documentation and screenshots is available in the `/docs` folder:
-
+```bash
+https://github.com/santosh-k-pradhan/retail-pricing-management-system/tree/main/docs
+```
 - Solution Architecture
 - Context Diagram
 - Design Decisions
 - Non-Functional Requirements
 - UI screenshots
+
+Screenshots available in the `/ui-screenshots` folder:
+```bash
+https://github.com/santosh-k-pradhan/retail-pricing-management-system/tree/main/docs/ui-screenshots
+```
 
 # UI Codebase
 
